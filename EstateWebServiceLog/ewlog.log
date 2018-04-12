@@ -1,9 +1,0 @@
-2018-04-12 12:59:04.630  INFO 13024 --- [main] service.app.EstateWebServiceApplication  : Starting EstateWebServiceApplication on LAPTOP-KB5M1MDI with PID 13024 (D:\Workspace\workspace-sts-3.9.1.RELEASE\EstateWebService\target\classes started by xcn33 in D:\Workspace\workspace-sts-3.9.1.RELEASE\EstateWebService)
-2018-04-12 12:59:04.630  INFO 13024 --- [main] service.app.EstateWebServiceApplication  : No active profile set, falling back to default profiles: default
-2018-04-12 12:59:07.921  INFO 13024 --- [main] service.app.EstateWebServiceApplication  : Started EstateWebServiceApplication in 3.525 seconds (JVM running for 4.067)
-2018-04-12 15:18:22.985  INFO 4472 --- [main] service.app.EstateWebServiceApplication  : Starting EstateWebServiceApplication on LAPTOP-KB5M1MDI with PID 4472 (D:\Workspace\workspace-sts-3.9.1.RELEASE\EstateWebService\target\classes started by xcn33 in D:\Workspace\workspace-sts-3.9.1.RELEASE\EstateWebService)
-2018-04-12 15:18:23.000  INFO 4472 --- [main] service.app.EstateWebServiceApplication  : No active profile set, falling back to default profiles: default
-2018-04-12 15:18:25.567  INFO 4472 --- [main] service.app.EstateWebServiceApplication  : Started EstateWebServiceApplication in 2.817 seconds (JVM running for 3.31)
-2018-04-12 16:58:04.309  INFO 8960 --- [main] service.app.EstateWebServiceApplication  : Starting EstateWebServiceApplication on LAPTOP-KB5M1MDI with PID 8960 (D:\Workspace\workspace-sts-3.9.1.RELEASE\EstateWebService\target\classes started by xcn33 in D:\Workspace\workspace-sts-3.9.1.RELEASE\EstateWebService)
-2018-04-12 16:58:04.309  INFO 8960 --- [main] service.app.EstateWebServiceApplication  : No active profile set, falling back to default profiles: default
-2018-04-12 16:58:06.673  INFO 8960 --- [main] service.app.EstateWebServiceApplication  : Started EstateWebServiceApplication in 2.59 seconds (JVM running for 3.085)
